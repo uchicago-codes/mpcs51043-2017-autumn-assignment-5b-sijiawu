@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MorseCoder",
+        "repositoryURL": "/Users/Sijia/Documents/swiftStuff/Assignment5/MorseCoder",
+        "state": {
+          "branch": null,
+          "revision": "e11ede98a5aeff530184050c6bd92a4c4b1f0ade",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
